@@ -9,12 +9,12 @@ Using it
 * use Maven with 'install' goal on the library
 * add the following dependency in the pom.xml from your project:
 
-    <dependency>
-    <groupId>com.google.android.actionbarcompat</groupId>
-    <artifactId>library</artifactId>
-    <version>1.0</version>
-    <type>apklib</type>
-    </dependency>
+        <dependency>
+        <groupId>com.google.android.actionbarcompat</groupId>
+        <artifactId>library</artifactId>
+        <version>1.0</version>
+        <type>apklib</type>
+        </dependency>
 
 
 Contact Me
