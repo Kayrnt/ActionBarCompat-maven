@@ -33,7 +33,6 @@
 			<artifactId>library</artifactId>
 			<version>1.0</version>
 			<type>apklib</type>
-
 		</dependency>
 
 	</dependencies>
